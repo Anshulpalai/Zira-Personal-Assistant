@@ -1,0 +1,6 @@
+__pycache__/
+config/
+dlib_compiled-main/
+venv/
+Zira GUI/
+.idea/
